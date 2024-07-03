@@ -1,2 +1,2 @@
 # README
-This application uses Web Speech API to cenvert text into speechs
+This application uses Web Speech API to convert text into speech.
